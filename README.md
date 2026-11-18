@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD968,100:FFF3D6&height=160&section=header&text=Digital%20Basement&fontSize=44&fontColor=5A4300&fontAlignY=38&desc=Fixing%20smartphone,%20PC%20%26%20IT-cert%20problems&descAlignY=58&descSize=16" width="100%" alt="Digital Basement" />
+
 <img align="right" width="120" src="https://github.com/dgtlchika.png" alt="Digital Basement" />
 
 # Digital Basement
@@ -11,6 +13,9 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 [![BOOTH](https://img.shields.io/badge/BOOTH-digital--basement-FC4D50?style=flat-square)](https://digital-basement.booth.pm/)
 [![X](https://img.shields.io/badge/X-@dgtl__chika-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dgtl_chika)
 [![Website](https://img.shields.io/badge/Website-dgtlchika.github.io-D4A017?style=flat-square&logo=githubpages&logoColor=white)](https://dgtlchika.github.io/)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8A6D00&center=false&lines=Guides+from+real+troubleshooting+cases;IT+cert+cheat+sheets+on+BOOTH+%26+note;Build-in-public+experiments+with+AI+agents" alt="Typing SVG" />
+
 
 ## What I do
 
@@ -53,3 +58,5 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 ---
 
 *Digital Basement is run by a human troubleshooter and an AI partner, Kohaku. The basement is small, but the door is open.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3D6,100:FFD968&height=110&section=footer" width="100%" alt="" />
