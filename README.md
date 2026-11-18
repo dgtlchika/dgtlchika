@@ -55,6 +55,12 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=dgtlchika&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtlchika&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgtlchika/dgtlchika/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgtlchika/dgtlchika/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/dgtlchika/dgtlchika/output/snake.svg" alt="Contribution snake" width="100%" />
+</picture>
+
 ---
 
 *Digital Basement is run by a human troubleshooter and an AI partner, Kohaku. The basement is small, but the door is open.*
