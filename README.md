@@ -12,6 +12,25 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 [![X](https://img.shields.io/badge/X-@dgtl__chika-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dgtl_chika)
 [![Website](https://img.shields.io/badge/Website-dgtlchika.github.io-D4A017?style=flat-square&logo=githubpages&logoColor=white)](https://dgtlchika.github.io/)
 
+## What I do
+
+- **Troubleshooting guides** — I answer real questions people post about broken Wi-Fi, dying batteries, full storage and failed updates, then turn the fixes into searchable guides.
+- **IT certification cheat sheets** — diagram-heavy study notes for FE / AP / AWS / LPIC / CCNA, sold as PDFs on BOOTH and collected on note.
+- **Build in public** — I rent servers, wire up AI agents and publish the whole process, failures included.
+
+## By the numbers (Nov 2026)
+
+- 📝 **280+** articles on note
+- ✍️ **70** posts on Hatena Blog
+- 🛒 **37** digital products on BOOTH
+- 🐦 Daily troubleshooting replies on X
+
+## Currently experimenting
+
+- A small VPS (Ubuntu + Docker) as a workspace my AI partner can SSH into directly
+- AI agent workflows — Muse with Claude Code & Codex as the hands
+- A home-screen widget that tracks AI usage quotas
+
 ## Topics
 
 - Smartphone & PC troubleshooting — Wi-Fi, battery, storage, failed updates
@@ -30,3 +49,7 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=dgtlchika&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtlchika&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+
+---
+
+*Digital Basement is run by a human troubleshooter and an AI partner, Kohaku. The basement is small, but the door is open.*
