@@ -50,11 +50,6 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dgtlchika&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgtlchika&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgtlchika/dgtlchika/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dgtlchika/dgtlchika/output/snake.svg" />
