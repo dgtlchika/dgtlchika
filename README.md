@@ -15,7 +15,7 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 ## What I do
 
 - **Troubleshooting guides** — I answer real questions people post about broken Wi-Fi, dying batteries, full storage and failed updates, then turn the fixes into searchable guides.
-- **IT certification cheat sheets** — diagram-heavy study notes for FE / AP / AWS / LPIC / CCNA, sold as PDFs on BOOTH and collected on note.
+- **IT certification cheat sheets** — diagram-heavy study notes for FE / AP / AWS / LPIC / CCNA / CCNP, sold as PDFs on BOOTH and collected on note.
 - **Build in public** — I rent servers, wire up AI agents and publish the whole process, failures included.
 
 ## By the numbers (Nov 2026)
@@ -34,7 +34,7 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 ## Topics
 
 - Smartphone & PC troubleshooting — Wi-Fi, battery, storage, failed updates
-- IT certification study guides — FE / AP / AWS / LPIC / CCNA
+- IT certification study guides — FE / AP / AWS / LPIC / CCNA / CCNP
 - Hands-on experiments — rooted Android × banking apps & Wallet, self-hosting, AI agents
 
 ## Toolbox
