@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD968,100:FFF3D6&height=160&section=header&text=Digital%20Basement&fontSize=44&fontColor=5A4300&fontAlignY=38&desc=Fixing%20smartphone,%20PC%20%26%20IT-cert%20problems&descAlignY=58&descSize=16" width="100%" alt="Digital Basement" />
+<img src="header.png" width="100%" alt="Digital Basement" />
 
 <img align="right" width="120" src="https://github.com/dgtlchika.png" alt="Digital Basement" />
 
@@ -65,4 +65,4 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 
 *Digital Basement is run by a human troubleshooter and an AI partner, Kohaku. The basement is small, but the door is open.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3D6,100:FFD968&height=110&section=footer" width="100%" alt="" />
+<img src="footer.png" width="100%" alt="" />
