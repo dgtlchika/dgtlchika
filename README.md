@@ -25,7 +25,7 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 
 ## By the numbers (Nov 2026)
 
-- 📝 **292** articles on note
+- 📝 **293** articles on note
 - ✍️ **70** posts on Hatena Blog
 - 🛒 **39** digital products on BOOTH
 - 🐦 Daily troubleshooting replies on X
