@@ -23,6 +23,15 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 - **IT certification cheat sheets** — diagram-heavy study notes for FE / AP / NW / AWS / LPIC / CCNA / CCNP, etc., sold as PDFs on BOOTH and collected on note.
 - **Build in public** — I rent servers, wire up AI agents and publish the whole process, failures included.
 
+## Selected projects
+
+- **[dgtlchika.github.io](https://github.com/dgtlchika/dgtlchika.github.io)** — The Digital Basement homepage: a hand-built index of the guides, cheat sheets and experiments published here.
+- **[daily-briefing](https://github.com/dgtlchika/daily-briefing)** — A Japanese tech briefing generated every morning from ITmedia, GIGAZINE and certification news, deduplicated and published automatically.
+- **[hatena-atompub-cli](https://github.com/dgtlchika/hatena-atompub-cli)** — A command-line tool for posting to Hatena Blog through the AtomPub API, including image uploads via Fotolife.
+- **[page-watch](https://github.com/dgtlchika/page-watch)** — Watches web pages for changes and sends a notification when something moves.
+- **[eyecatch-generator](https://github.com/dgtlchika/eyecatch-generator)** — Generates cover images for Digital Basement articles.
+- **[muse-usage-widget](https://github.com/dgtlchika/muse-usage-widget)** — A small widget that keeps AI usage quotas visible at a glance.
+
 ## By the numbers (Nov 2026)
 
 - 📝 **293** articles on note
