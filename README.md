@@ -28,6 +28,10 @@ Practical guides and cheat sheets, written from real troubleshooting cases — n
 - **[dgtlchika.github.io](https://github.com/dgtlchika/dgtlchika.github.io)** — The Digital Basement homepage: a hand-built index of the guides, cheat sheets and experiments published here.
 - **[daily-briefing](https://github.com/dgtlchika/daily-briefing)** — A Japanese tech briefing generated every morning from ITmedia, GIGAZINE and certification news, deduplicated and published automatically.
 - **[hatena-atompub-cli](https://github.com/dgtlchika/hatena-atompub-cli)** — A command-line tool for posting to Hatena Blog through the AtomPub API, including image uploads via Fotolife.
+- **[note-wxr-md](https://github.com/dgtlchika/note-wxr-md)** — A dependency-free CLI that converts note exports (WXR/ZIP) into Markdown files, built for scheduled backups.
+- **[md-table-png](https://github.com/dgtlchika/md-table-png)** — Converts Markdown tables to PNG images, for platforms like note that have no table feature.
+- **[hatena-mt-md](https://github.com/dgtlchika/hatena-mt-md)** — Converts Hatena Blog MT-format exports into per-article Markdown files for migration.
+- **[kuma-export](https://github.com/dgtlchika/kuma-export)** — A read-only CLI that exports Uptime Kuma settings to JSON/CSV/Markdown — secrets never included.
 - **[page-watch](https://github.com/dgtlchika/page-watch)** — Watches web pages for changes and sends a notification when something moves.
 - **[eyecatch-generator](https://github.com/dgtlchika/eyecatch-generator)** — Generates cover images for Digital Basement articles.
 - **[muse-usage-widget](https://github.com/dgtlchika/muse-usage-widget)** — A small widget that keeps AI usage quotas visible at a glance.
